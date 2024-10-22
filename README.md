@@ -44,3 +44,5 @@ conversiones_energia: Diccionario que contiene las conversiones para las unidade
 conversiones_fuerza: Diccionario que contiene las conversiones para las unidades de fuerza.
 4. Ejemplo de Uso
 Al ejecutar la aplicación, el usuario puede ingresar un valor en uno de los campos de entrada, seleccionar las unidades de origen y destino, y presionar el botón "Convertir" para ver el resultado.
+¡¡¡¡PUEDE SER USADO MEDIANTE UNA APLICACION QUE ADMITA PYTHON, SOLO HA SIDO PROBADO EN WINDOWS(PYTHON O CUALQUIER OTRO PROGRAMA QUE ADMITA PYTHON), ANDROID(PYDROID O CUALQUIER OTRA APLICACION), TAMBIEN SE PUEDE UTILIZAR EN SITIOS WEB, SOLO QUE TIENEN QUE TENER LIBRERIAS ESOS SITIOS!!!!
+!
