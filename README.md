@@ -10,7 +10,7 @@ Importaciones
 python
 Copiar código
 import tkinter as tk
-from tkinter import Label, PhotoImage, ttk
+from tkinter import Label, ttk
 Funciones
 
 convertir(combo_origen, combo_destino, entry_valor, label_resultado, conversiones)
